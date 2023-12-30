@@ -1,6 +1,6 @@
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=16&height=200&section=header&text=nxrxka&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=9&height=200&section=header&text=nxrxka&fontSize=90)
     
 </div>
 
@@ -8,6 +8,7 @@
 <br>
 
 <p align="center">
+     <Strong>I'm Interested in...</Strong><br>
     - Computer Security <br>
     - Digital Forensics <br>
     - Incident Response
