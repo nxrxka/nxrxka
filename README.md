@@ -31,7 +31,7 @@
 
   <p align="center">
     <br>
-    <Strong>✉️Email✉️</Strong>
+    <Strong> Email </Strong>
 <p align="center" display="inline-block">
     nxrxka@gmail.com
 </p>
