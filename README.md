@@ -16,7 +16,6 @@
 <p align="center">
     - Computer Security <br>
     - Digital Forensics <br>
-    - Incident Response
     
   
 </p>
