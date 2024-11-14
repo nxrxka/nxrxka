@@ -9,7 +9,6 @@
     <br>
     <Strong>  </Strong>
 <p align="center" display="inline-block">
-    nxrxka@gmail.com
 </p>
 <br>
 
