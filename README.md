@@ -13,8 +13,7 @@
 <br>
 
 <p align="center">
-    - Computer Security <br>
-    - Digital Forensics <br>
+
     
   
 </p>
@@ -22,12 +21,7 @@
    
 </p>
 <p align="center" display="inline-block">
- <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
    <br>
-    <img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=Elastic Stack&logoColor=white">
-    <img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=Graylog&logoColor=white"><br>
     
 <p align="center">
 
@@ -38,11 +32,6 @@
 </p>
 <br>
 
-
-<div align="center">
-    
-![nxrxka's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxrxka\&rank_icon=github)
-</div>    
 
 
 
